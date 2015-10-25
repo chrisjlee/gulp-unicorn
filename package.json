@@ -1,0 +1,28 @@
+{
+  "name": "gulp-unicorn",
+  "version": "0.1.0",
+  "description": "gulp + unicorns = profit",
+  "main": "index.js",
+  "scripts": {
+    "test": "node gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisjlee/gulp-unicorn.git"
+  },
+  "keywords": [
+    "gulp",
+    "unicorn",
+    "javascript",
+    "front-end"
+  ],
+  "author": "Chris J. Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisjlee/gulp-unicorn/issues"
+  },
+  "homepage": "https://github.com/chrisjlee/gulp-unicorn",
+  "dependencies": {
+    "gulp-util": "~3.0.7"
+  }
+}
