@@ -1,5 +1,5 @@
 {
-  "name": "gulp-unicorn",
+  "name": "unicorns",
   "version": "0.1.0",
   "description": "gulp + unicorns = profit",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/chrisjlee/gulp-unicorn.git"
+    "url": "git@github.com:chrisjlee/unicorns.git"
   },
   "keywords": [
     "gulp",
@@ -19,9 +19,9 @@
   "author": "Chris J. Lee",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chrisjlee/gulp-unicorn/issues"
+    "url": "https://github.com/chrisjlee/unicorns/issues"
   },
-  "homepage": "https://github.com/chrisjlee/gulp-unicorn",
+  "homepage": "https://github.com/chrisjlee/unicorns",
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-util": "~3.0.7"
